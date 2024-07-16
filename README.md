@@ -1,4 +1,4 @@
-#Arrhythmia Classification Using Deep Learning
+# Arrhythmia Classification Using Deep Learning
 
 •Developed a robust heart disease classification model using Deep Learning techniques, achieving an accuracyof 95.7% in training and 93.8% in testing with VGG19 model.
 
